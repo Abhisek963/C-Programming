@@ -7,4 +7,5 @@ int main(){
         printf("\n%c is a vowel",ch);
     else
         printf("\n%c,  is not a vowel",ch);
+    return 0;
 }
