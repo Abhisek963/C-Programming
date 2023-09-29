@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "hello World!.c",
+			"path" : "variable.c",
 			"sourceGroupIndex" : 0
 		}
 	],
