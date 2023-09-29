@@ -1,3 +1,6 @@
 # ninja log v5
-0	571	7177187164092852	CMakeFiles/C_Programming.dir/variable.c.obj	fcab8fdc284407b
 573	813	7177187166455454	C_Programming.exe	dfccefbe43c8c5f5
+0	571	7177187164092852	CMakeFiles/C_Programming.dir/variable.c.obj	fcab8fdc284407b
+1	636	7177193504723156	build.ninja	26ee5e08f55af4c6
+1	649	7177193511958560	CMakeFiles/C_Programming.dir/operations.c.obj	cac66f3134bbd9ea
+649	921	7177193514601406	C_Programming.exe	863c10e850cefcae

@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "variable.c",
+			"path" : "operations.c",
 			"sourceGroupIndex" : 0
 		}
 	],
