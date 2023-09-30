@@ -1,5 +1,10 @@
 # ninja log v5
-600	857	7177214962461253	C_Programming.exe	cb7360efaa6d2020
-1	636	7177982943373488	build.ninja	26ee5e08f55af4c6
-0	610	7177984810890517	CMakeFiles/C_Programming.dir/change_of_temp_.c.obj	474dc6f16b7d15ba
 611	898	7177984813719225	C_Programming.exe	5200f0091523429d
+1	636	7177989570264373	build.ninja	26ee5e08f55af4c6
+0	610	7177984810890517	CMakeFiles/C_Programming.dir/change_of_temp_.c.obj	474dc6f16b7d15ba
+0	605	7177990230133437	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+606	859	7177990232609466	C_Programming.exe	aeadcfc493ffbe24
+2	615	7177991232028802	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+615	876	7177991234614941	C_Programming.exe	aeadcfc493ffbe24
+2	600	7177991474662361	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+600	828	7177991476881973	C_Programming.exe	aeadcfc493ffbe24
