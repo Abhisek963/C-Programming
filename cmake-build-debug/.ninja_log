@@ -1,8 +1,19 @@
 # ninja log v5
-0	610	7177984810890517	CMakeFiles/C_Programming.dir/change_of_temp_.c.obj	474dc6f16b7d15ba
-1	636	7178002182502380	build.ninja	26ee5e08f55af4c6
-600	828	7177991476881973	C_Programming.exe	aeadcfc493ffbe24
-2	600	7177991474662361	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
-1	372	7178002182502380	build.ninja	45015416126a402d
-0	610	7178002189094038	CMakeFiles/C_Programming.dir/even_numbers.c.obj	908e935c6522f1ec
 611	876	7178002191689335	C_Programming.exe	5a43ae7fc6fa8a65
+1	372	7178006111260025	build.ninja	45015416126a402d
+0	610	7177984810890517	CMakeFiles/C_Programming.dir/change_of_temp_.c.obj	474dc6f16b7d15ba
+2	600	7177991474662361	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+0	610	7178002189094038	CMakeFiles/C_Programming.dir/even_numbers.c.obj	908e935c6522f1ec
+1	579	7178006111260025	build.ninja	45015416126a402d
+0	592	7178006117616437	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+592	843	7178006120095876	C_Programming.exe	95eceee9f938d5f2
+2	681	7178009015533047	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+682	972	7178009018385070	C_Programming.exe	95eceee9f938d5f2
+2	635	7178010074032473	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+635	892	7178010076564731	C_Programming.exe	95eceee9f938d5f2
+2	590	7178010478098804	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+590	828	7178010480395600	C_Programming.exe	95eceee9f938d5f2
+2	579	7178010610697069	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+579	826	7178010613129863	C_Programming.exe	95eceee9f938d5f2
+2	1122	7178010855328413	CMakeFiles/C_Programming.dir/name_n_number_of_times.c.obj	39e0ecef976663b0
+1123	1577	7178010859809382	C_Programming.exe	95eceee9f938d5f2
