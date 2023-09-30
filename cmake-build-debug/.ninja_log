@@ -1,10 +1,8 @@
 # ninja log v5
-611	898	7177984813719225	C_Programming.exe	5200f0091523429d
-1	636	7177989570264373	build.ninja	26ee5e08f55af4c6
 0	610	7177984810890517	CMakeFiles/C_Programming.dir/change_of_temp_.c.obj	474dc6f16b7d15ba
-0	605	7177990230133437	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
-606	859	7177990232609466	C_Programming.exe	aeadcfc493ffbe24
-2	615	7177991232028802	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
-615	876	7177991234614941	C_Programming.exe	aeadcfc493ffbe24
-2	600	7177991474662361	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+1	636	7178002182502380	build.ninja	26ee5e08f55af4c6
 600	828	7177991476881973	C_Programming.exe	aeadcfc493ffbe24
+2	600	7177991474662361	CMakeFiles/C_Programming.dir/display_age.c.obj	953ce711f8c5258f
+1	372	7178002182502380	build.ninja	45015416126a402d
+0	610	7178002189094038	CMakeFiles/C_Programming.dir/even_numbers.c.obj	908e935c6522f1ec
+611	876	7178002191689335	C_Programming.exe	5a43ae7fc6fa8a65
