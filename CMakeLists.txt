@@ -4,8 +4,6 @@ project(C_Programming C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
-
-
-        pattern01.c
+        pattern02.c
 
 )
