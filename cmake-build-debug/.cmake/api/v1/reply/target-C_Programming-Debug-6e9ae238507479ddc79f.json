@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "input-four output-2 .c",
+			"path" : "pattern01.c",
 			"sourceGroupIndex" : 0
 		}
 	],

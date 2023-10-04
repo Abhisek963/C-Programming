@@ -5,6 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
 
-        "input-four output-2 .c"
+
+        pattern01.c
 
 )
