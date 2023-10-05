@@ -4,6 +4,8 @@ project(C_Programming C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
-        "GCD of two number no..c"
+
+
+        "no. of digits.c"
 
 )
