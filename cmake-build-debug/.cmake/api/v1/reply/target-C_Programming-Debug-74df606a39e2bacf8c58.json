@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "currency.c",
+			"path" : "ASCII.c",
 			"sourceGroupIndex" : 0
 		}
 	],
