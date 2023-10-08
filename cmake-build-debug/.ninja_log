@@ -1,17 +1,7 @@
 # ninja log v5
-471	698	7182281314944401	C_Programming.exe	95657d6f8e24365b
-0	315	7182285954464240	build.ninja	26ee5e08f55af4c6
-2	627	7180463269218540	CMakeFiles/C_Programming.dir/prime_or_composite.c.obj	59cf70c35ac74e61
-0	478	7181412019623395	CMakeFiles/C_Programming.dir/pattern02.c.obj	9ae5e9103a0fb465
-1	470	7180471975638213	CMakeFiles/C_Programming.dir/input-four_output-2_.c.obj	3f1d8aa21aac9862
-1	470	7182281312755764	CMakeFiles/C_Programming.dir/Hello_n_times.c.obj	8f671e3ccf0d8ae9
-2	466	7181409524067431	CMakeFiles/C_Programming.dir/pattern01.c.obj	8d2d950a0e9e26bd
-1	719	7181457290987483	CMakeFiles/C_Programming.dir/pattern03.c.obj	402f40ea2caa3cd0
-2	473	7182272446460607	CMakeFiles/C_Programming.dir/GCD_of_two_number_no..c.obj	81fe9247e7ef74af
-1	300	7182285954464240	build.ninja	26ee5e08f55af4c6
-0	495	7182285959811357	CMakeFiles/C_Programming.dir/no._of_digits.c.obj	6261da0dd89403d0
-495	700	7182285961804961	C_Programming.exe	fa1d2333e3198ae
-1	451	7182286252359083	CMakeFiles/C_Programming.dir/no._of_digits.c.obj	6261da0dd89403d0
-452	656	7182286254361886	C_Programming.exe	fa1d2333e3198ae
-1	460	7182287057899859	CMakeFiles/C_Programming.dir/no._of_digits.c.obj	6261da0dd89403d0
-461	714	7182287060348132	C_Programming.exe	fa1d2333e3198ae
+796	1088	7184760933862137	C_Programming.exe	132100965da3e42
+0	319	7184762237270796	build.ninja	26ee5e08f55af4c6
+1	793	7184760930946098	CMakeFiles/C_Programming.dir/Leap_year.c.obj	fa5abd56074aa5ad
+3	497	7184762237270796	build.ninja	45015416126a402d
+0	768	7184762245631302	CMakeFiles/C_Programming.dir/Gross_salary.c.obj	a50a1656d24631
+769	1061	7184762248497921	C_Programming.exe	70f410773b56f5c0
