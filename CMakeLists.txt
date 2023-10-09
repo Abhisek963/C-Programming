@@ -4,7 +4,6 @@ project(C_Programming C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
-
-        "function 02.c"
+        "Function 03.c"
 
 )

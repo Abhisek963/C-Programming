@@ -1,13 +1,14 @@
 # ninja log v5
 2	1473	7184773938057254	CMakeFiles/C_Programming.dir/ASCII.c.obj	8157b73a3f9f49ab
-2	455	7185708558175016	build.ninja	45015416126a402d
-664	971	7185706306776524	C_Programming.exe	1fcb2661564f4a8d
-2	607	7184768577691722	CMakeFiles/C_Programming.dir/pattern03.c.obj	526713addebddef6
-1	793	7184760930946098	CMakeFiles/C_Programming.dir/Leap_year.c.obj	fa5abd56074aa5ad
-0	768	7184762245631302	CMakeFiles/C_Programming.dir/Gross_salary.c.obj	a50a1656d24631
-0	673	7184772078992360	CMakeFiles/C_Programming.dir/currency.c.obj	731d0d16821ef604
-2	605	7184767218791810	CMakeFiles/C_Programming.dir/fibonacci_series.c.obj	65a2cdec7d9b93dc
-0	663	7185706303746173	CMakeFiles/C_Programming.dir/Function.c.obj	1d150016766fdee2
-1	465	7185708558175016	build.ninja	45015416126a402d
-0	634	7185708565162947	CMakeFiles/C_Programming.dir/function_02.c.obj	817e4c52dae9b33
+1	465	7185711750878094	build.ninja	45015416126a402d
 635	914	7185708567917083	C_Programming.exe	4f2f6929534b1d47
+1	793	7184760930946098	CMakeFiles/C_Programming.dir/Leap_year.c.obj	fa5abd56074aa5ad
+2	607	7184768577691722	CMakeFiles/C_Programming.dir/pattern03.c.obj	526713addebddef6
+0	768	7184762245631302	CMakeFiles/C_Programming.dir/Gross_salary.c.obj	a50a1656d24631
+2	605	7184767218791810	CMakeFiles/C_Programming.dir/fibonacci_series.c.obj	65a2cdec7d9b93dc
+0	673	7184772078992360	CMakeFiles/C_Programming.dir/currency.c.obj	731d0d16821ef604
+0	663	7185706303746173	CMakeFiles/C_Programming.dir/Function.c.obj	1d150016766fdee2
+0	634	7185708565162947	CMakeFiles/C_Programming.dir/function_02.c.obj	817e4c52dae9b33
+1	427	7185711750878094	build.ninja	45015416126a402d
+0	612	7185711871930429	CMakeFiles/C_Programming.dir/Function_03.c.obj	83fe85a989822f80
+612	894	7185711874683100	C_Programming.exe	954d51094bd4ff3e
