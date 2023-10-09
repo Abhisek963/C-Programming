@@ -4,7 +4,7 @@
 #include<stdio.h>
 int add( int a,int b){
     int c=a+b;
-  return c;
+    return c;
 }
 int main(){
     int a=0,b=0;
