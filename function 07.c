@@ -1,6 +1,6 @@
 #include<stdio.h>
 int disp(){
-    
+
     printf("Abhisek\n");
     printf("Prakhar\n");
     printf("Shuhbam\n");
