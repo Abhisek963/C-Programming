@@ -1,11 +1,9 @@
 # ninja log v5
-591	820	7187237374187497	C_Programming.exe	2c9755a0f445af11
-1	632	7187241902993912	build.ninja	45015416126a402d
-3	905	7187241487861142	CMakeFiles/C_Programming.dir/Function_08.c.obj	e4155f2bb6f58333
-8	706	7187241929020631	CMakeFiles/C_Programming.dir/Function_08.c.obj	9553ec132835b056
-1	581	7187243385855838	CMakeFiles/C_Programming.dir/Function_08.c.obj	9553ec132835b056
-582	831	7187243388306730	C_Programming.exe	7f79d2d551326cc4
-2	852	7187243677865292	CMakeFiles/C_Programming.dir/Function_08.c.obj	9553ec132835b056
-853	1187	7187243681145427	C_Programming.exe	7f79d2d551326cc4
-2	592	7187244076105593	CMakeFiles/C_Programming.dir/Function_08.c.obj	9553ec132835b056
-592	839	7187244078529733	C_Programming.exe	7f79d2d551326cc4
+639	875	7187260928957961	C_Programming.exe	7f79d2d551326cc4
+1	412	7187262095439453	build.ninja	26ee5e08f55af4c6
+0	638	7187260926639512	CMakeFiles/C_Programming.dir/Function_08.c.obj	9553ec132835b056
+0	615	7187249789028464	CMakeFiles/C_Programming.dir/Function_06.c.obj	9ddcdf1a9d3ba339
+4	932	7187259762604037	CMakeFiles/C_Programming.dir/Function_09.c.obj	576328a0ed0076d
+1	386	7187262095439453	build.ninja	26ee5e08f55af4c6
+0	652	7187262102413119	CMakeFiles/C_Programming.dir/Function_09.c.obj	576328a0ed0076d
+652	892	7187262104765357	C_Programming.exe	6e334cb3f98c2edc
