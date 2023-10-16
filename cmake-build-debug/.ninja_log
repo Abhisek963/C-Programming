@@ -1,16 +1,16 @@
 # ninja log v5
-2	625	7189206762952619	CMakeFiles/C_Programming.dir/function_14.c.obj	9b856ead34a4735b
-1399	2026	7190776606608059	C_Programming.exe	174a20cd1b453f40
-2	1003	7190778335672902	build.ninja	26ee5e08f55af4c6
 2	543	7189211851923025	CMakeFiles/C_Programming.dir/Function_15.c.obj	1588c90a1d2079e2
+635	887	7190778344922886	C_Programming.exe	cf1cf3e0695d8286
+1	433	7191778360421619	build.ninja	26ee5e08f55af4c6
+2	625	7189206762952619	CMakeFiles/C_Programming.dir/function_14.c.obj	9b856ead34a4735b
 1	712	7188332021823673	CMakeFiles/C_Programming.dir/Function_10.c.obj	3ba4108b5a98a586
 1	561	7188332942673765	CMakeFiles/C_Programming.dir/Function_11.c.obj	6ffac42e53858c53
 0	509	7188334546884101	CMakeFiles/C_Programming.dir/Function_12.c.obj	17d432b206d15f08
 2	550	7188341064039478	CMakeFiles/C_Programming.dir/Function_13.c.obj	b1ab52ced087c472
 1	658	7189215249946642	CMakeFiles/C_Programming.dir/A_01.c.obj	753d71b708b3f45e
 1	2621	7189217137784288	CMakeFiles/C_Programming.dir/A_02.c.obj	f4202673baa11135
-1	499	7190066893895862	CMakeFiles/C_Programming.dir/A_08.c.obj	441ac5a45c7b023e
 0	652	7189219211897728	CMakeFiles/C_Programming.dir/A_03.c.obj	68693f7f9e437812
+1	499	7190066893895862	CMakeFiles/C_Programming.dir/A_08.c.obj	441ac5a45c7b023e
 1	655	7189220199025727	CMakeFiles/C_Programming.dir/A_04.c.obj	4631363bc0767b48
 2	502	7190061610809730	CMakeFiles/C_Programming.dir/A_05.c.obj	861722678caa2f86
 3	933	7190063531996376	CMakeFiles/C_Programming.dir/A_06.c.obj	7c366d080d290199
@@ -20,6 +20,7 @@
 1	657	7190774057081668	CMakeFiles/C_Programming.dir/A_11.c.obj	2c2cc14721f0a9f6
 2	617	7190775418602580	CMakeFiles/C_Programming.dir/A_12.c.obj	e35fac9ab5eeccd3
 1	1397	7190776600440608	CMakeFiles/C_Programming.dir/A_13.c.obj	d2e233b4102d7048
-1	433	7190778335672902	build.ninja	26ee5e08f55af4c6
 0	634	7190778342453113	CMakeFiles/C_Programming.dir/A_14.c.obj	3f91b7dfe84fbf07
-635	887	7190778344922886	C_Programming.exe	cf1cf3e0695d8286
+3	907	7191778278659690	CMakeFiles/C_Programming.dir/A_15.c.obj	f3194d29b1c8be69
+1	464	7191778360421619	build.ninja	26ee5e08f55af4c6
+2	278	7191778363628853	C_Programming.exe	e149b13843da0440
