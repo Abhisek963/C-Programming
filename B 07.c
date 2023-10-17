@@ -13,5 +13,5 @@ int main()
     scanf("%f%f",&bs,&ht);
     float ar= area(bs,ht);
     printf("Area of the triangle is: %0.3f",ar);
-   
+
 }

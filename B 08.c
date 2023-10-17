@@ -15,5 +15,4 @@ int main()
             printf("\n%d is an odd number",ini);
         ini++;
     }
-    return 0;
 }
