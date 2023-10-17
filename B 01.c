@@ -1,4 +1,4 @@
-//Program to read no.s untill -1 is encountered and also count the no. of negetive, positive and zeros entered
+//Program to read no.s until -1 is encountered and also count the no. of negative, positive and zeros entered
 
 #include<stdio.h>
 int main()
@@ -19,7 +19,7 @@ int main()
         scanf("%d",&no);
     }
     printf("\nCount of positive numbers entered: %d",pos);
-    printf("\nCount of negetive numbers entered: %d",neg);
+    printf("\nCount of negative numbers entered: %d",neg);
     printf("\nCount of zeros entered: %d",zero);
     return 0;
 }

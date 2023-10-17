@@ -7,7 +7,8 @@ add_executable(C_Programming
 
 
 
-        "B 01.c"
+
+        "B 02.c"
 
 
 )
