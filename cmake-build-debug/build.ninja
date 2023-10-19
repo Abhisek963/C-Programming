@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/abhis/CLionProjects/C$ Programming/C-Programming
 
 build cmake_object_order_depends_target_C_Programming: phony || CMakeFiles/C_Programming.dir
 
-build CMakeFiles/C_Programming.dir/B_07.c.obj: C_COMPILER__C_Programming_unscanned_Debug C$:/Users/abhis/CLionProjects/C$ Programming/C-Programming/B$ 07.c || cmake_object_order_depends_target_C_Programming
-  DEP_FILE = CMakeFiles\C_Programming.dir\B_07.c.obj.d
+build CMakeFiles/C_Programming.dir/B_10.c.obj: C_COMPILER__C_Programming_unscanned_Debug C$:/Users/abhis/CLionProjects/C$ Programming/C-Programming/B$ 10.c || cmake_object_order_depends_target_C_Programming
+  DEP_FILE = CMakeFiles\C_Programming.dir\B_10.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C_Programming.dir
   OBJECT_FILE_DIR = CMakeFiles\C_Programming.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C_Programming.dir/B_07.c.obj: C_COMPILER__C_Programming_unscann
 #############################################
 # Link the executable C_Programming.exe
 
-build C_Programming.exe: C_EXECUTABLE_LINKER__C_Programming_Debug CMakeFiles/C_Programming.dir/B_07.c.obj
+build C_Programming.exe: C_EXECUTABLE_LINKER__C_Programming_Debug CMakeFiles/C_Programming.dir/B_10.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_Programming.dir
