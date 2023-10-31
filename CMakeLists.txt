@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
 
-        "D 04.c"
+        "D 05.c"
 
 
 )
