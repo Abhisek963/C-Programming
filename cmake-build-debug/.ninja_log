@@ -1,19 +1,19 @@
 # ninja log v5
+2	494	7210810823415461	build.ninja	26ee5e08f55af4c6
+745	1060	7210806414925286	C_Programming.exe	828376953e5c2984
 0	441	7209796186960501	CMakeFiles/C_Programming.dir/D_12.c.obj	1f26b01c9e440dcd
-0	377	7210806403752734	build.ninja	26ee5e08f55af4c6
-493	739	7210683106815925	C_Programming.exe	fcfc07e6d822faab
 5	1099	7206462735909314	CMakeFiles/C_Programming.dir/D_08.c.obj	5cacf87dee5eb5bc
 0	590	7206463350555016	CMakeFiles/C_Programming.dir/D_09.c.obj	ca638f2de7224b29
-1	436	7209801475822531	CMakeFiles/C_Programming.dir/D_13.c.obj	6238593aad87d9bd
 1	728	7206467270630401	CMakeFiles/C_Programming.dir/D_10.c.obj	83408e6ca7023085
+1	436	7209801475822531	CMakeFiles/C_Programming.dir/D_13.c.obj	6238593aad87d9bd
 2	462	7209788890799271	CMakeFiles/C_Programming.dir/D_11.c.obj	de92a4bb994e9955
+1	745	7210806411797313	CMakeFiles/C_Programming.dir/D_14.c.obj	43648d10f9c8bde2
 0	510	7210663682295851	CMakeFiles/C_Programming.dir/pattern02.c.obj	9ae5e9103a0fb465
-1	462	7209806973941654	CMakeFiles/C_Programming.dir/D_14.c.obj	43648d10f9c8bde2
 0	528	7210657821200807	CMakeFiles/C_Programming.dir/Factorial.c.obj	98d36d0352af58d7
 0	512	7210674544262235	CMakeFiles/C_Programming.dir/A_04.c.obj	4631363bc0767b48
 0	513	7210676789286872	CMakeFiles/C_Programming.dir/no._of_digits.c.obj	6261da0dd89403d0
 1	507	7210678973077838	CMakeFiles/C_Programming.dir/GCD_of_two_number_no..c.obj	81fe9247e7ef74af
 1	493	7210683104447833	CMakeFiles/C_Programming.dir/A_03.c.obj	68693f7f9e437812
-2	494	7210806403752734	build.ninja	26ee5e08f55af4c6
-1	745	7210806411797313	CMakeFiles/C_Programming.dir/D_14.c.obj	43648d10f9c8bde2
-745	1060	7210806414925286	C_Programming.exe	828376953e5c2984
+0	411	7210810823415461	build.ninja	26ee5e08f55af4c6
+0	660	7210810830495265	CMakeFiles/C_Programming.dir/D_15.c.obj	1359662a054bb7b2
+660	946	7210810833287934	C_Programming.exe	7876ad2bbb27e966
