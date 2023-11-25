@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_Programming
 
 
-        "X 09.c"
+
+        "X 10.c"
 
 )
