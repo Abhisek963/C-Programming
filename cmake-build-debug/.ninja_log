@@ -1,13 +1,13 @@
 # ninja log v5
-508	764	7226186158136700	C_Programming.exe	1e22d1a29129cc82
-2	551	7226191771340775	build.ninja	26ee5e08f55af4c6
-2	492	7222030895845441	CMakeFiles/C_Programming.dir/S_18.c.obj	a48c283a0287e1f
+483	695	7226191937273173	C_Programming.exe	619dc8a88ca69f2
+1	352	7226195932505427	build.ninja	26ee5e08f55af4c6
 0	535	7217614968967217	CMakeFiles/C_Programming.dir/S_13.c.obj	36ad2b12e44a868e
-0	556	7217618452299894	CMakeFiles/C_Programming.dir/S_15.c.obj	ed831a41b4182966
+2	492	7222030895845441	CMakeFiles/C_Programming.dir/S_18.c.obj	a48c283a0287e1f
 1	507	7226186155599515	CMakeFiles/C_Programming.dir/X_07.c.obj	b7a121856cf6366
 0	481	7217616733597328	CMakeFiles/C_Programming.dir/S_14.c.obj	b7810e957b3a2107
-0	681	7222028776510658	CMakeFiles/C_Programming.dir/S_17.c.obj	2768f645186c1392
+0	556	7217618452299894	CMakeFiles/C_Programming.dir/S_15.c.obj	ed831a41b4182966
 2	788	7218369748815585	CMakeFiles/C_Programming.dir/S_16.c.obj	ab582f8defcbd74b
+0	681	7222028776510658	CMakeFiles/C_Programming.dir/S_17.c.obj	2768f645186c1392
 0	565	7222034062133747	CMakeFiles/C_Programming.dir/S_19.c.obj	a1643401276eba20
 0	513	7222043586105064	CMakeFiles/C_Programming.dir/S_20.c.obj	9aa86172d25efe14
 1	453	7222901565575306	CMakeFiles/C_Programming.dir/File.c.obj	8f4daf0ab065b0c6
@@ -17,8 +17,7 @@
 2	595	7224624926259849	CMakeFiles/C_Programming.dir/X_04.c.obj	148c3d4e200219a2
 2	619	7224628281382917	CMakeFiles/C_Programming.dir/X_05.c.obj	59021e5aae2a41b
 1	603	7224629443113725	CMakeFiles/C_Programming.dir/X_06.c.obj	df73cf411cb2c43e
-1	352	7226191771340775	build.ninja	26ee5e08f55af4c6
-1	511	7226191776822394	CMakeFiles/C_Programming.dir/X_08.c.obj	8a32f4175357f46a
-512	735	7226191778943546	C_Programming.exe	619dc8a88ca69f2
 1	482	7226191935233684	CMakeFiles/C_Programming.dir/X_08.c.obj	8a32f4175357f46a
-483	695	7226191937273173	C_Programming.exe	619dc8a88ca69f2
+1	353	7226195932505427	build.ninja	26ee5e08f55af4c6
+0	573	7226195938585051	CMakeFiles/C_Programming.dir/X_09.c.obj	6427ad205cc33115
+574	830	7226195941090364	C_Programming.exe	d8b1a0851ccfb1c7
